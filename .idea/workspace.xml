@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6064977-3f1e-4e6e-ac0f-3b2651bfea8c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/7f487033bf688bf9642d0a064ae7772d5ec1795a/css/styles.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/7f487033bf688bf9642d0a064ae7772d5ec1795a/css/styles.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7f487033bf688bf9642d0a064ae7772d5ec1795a/img/hero-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7f487033bf688bf9642d0a064ae7772d5ec1795a/img/hero-min.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7f487033bf688bf9642d0a064ae7772d5ec1795a/img/hero.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7f487033bf688bf9642d0a064ae7772d5ec1795a/img/hero.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/7f487033bf688bf9642d0a064ae7772d5ec1795a/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/7f487033bf688bf9642d0a064ae7772d5ec1795a/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,8 +36,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/7f487033bf688bf9642d0a064ae7772d5ec1795a/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="426" column="10" lean-forward="true" selection-start-line="426" selection-start-column="10" selection-end-line="426" selection-end-column="10" />
+            <state relative-caret-position="265">
+              <caret line="160" column="20" lean-forward="true" selection-start-line="160" selection-start-column="20" selection-end-line="160" selection-end-column="20" />
+              <folding>
+                <element signature="e#7161#7167#0" expanded="true" />
+                <element signature="e#7167#7173#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -47,19 +49,23 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/7f487033bf688bf9642d0a064ae7772d5ec1795a/css/styles.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state>
+              <caret column="3774" selection-start-column="3774" selection-end-column="3798" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/7f487033bf688bf9642d0a064ae7772d5ec1795a/css/flexslider.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/7f487033bf688bf9642d0a064ae7772d5ec1795a/img/hero.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7f487033bf688bf9642d0a064ae7772d5ec1795a/img/fancybox_sprite@2x.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
@@ -88,8 +94,15 @@
       <find>bold</find>
       <find>login</find>
       <find>white</find>
-      <find>Kolkata</find>
       <find>navigation</find>
+      <find>invi</find>
+      <find>invi]]]</find>
+      <find>invita</find>
+      <find>section-padd</find>
+      <find>events</find>
+      <find>time</find>
+      <find>Kolkata</find>
+      <find>wp6</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -131,12 +144,6 @@
               <item name="colocha.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="7f487033bf688bf9642d0a064ae7772d5ec1795a" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="colocha.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="colocha.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="7f487033bf688bf9642d0a064ae7772d5ec1795a" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -184,12 +191,12 @@
       <option name="presentableId" value="Default" />
       <updated>1618954319494</updated>
       <workItem from="1618954323729" duration="994000" />
-      <workItem from="1619265542246" duration="6427000" />
+      <workItem from="1619265542246" duration="7899000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7421000" />
+    <option name="totallyTimeSpent" value="8893000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1847" y="69" width="1629" height="852" extended-state="0" />
@@ -291,17 +298,28 @@
     <entry file="file://$PROJECT_DIR$/7f487033bf688bf9642d0a064ae7772d5ec1795a/img/logo.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/7f487033bf688bf9642d0a064ae7772d5ec1795a/css/flexslider.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/7f487033bf688bf9642d0a064ae7772d5ec1795a/css/styles.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state>
+          <caret column="3774" selection-start-column="3774" selection-end-column="3798" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/7f487033bf688bf9642d0a064ae7772d5ec1795a/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="426" column="10" lean-forward="true" selection-start-line="426" selection-start-column="10" selection-end-line="426" selection-end-column="10" />
+        <state relative-caret-position="265">
+          <caret line="160" column="20" lean-forward="true" selection-start-line="160" selection-start-column="20" selection-end-line="160" selection-end-column="20" />
+          <folding>
+            <element signature="e#7161#7167#0" expanded="true" />
+            <element signature="e#7167#7173#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
